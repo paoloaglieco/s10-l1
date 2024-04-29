@@ -1,0 +1,22 @@
+-------------Source Headers EXE-------------
+dal section header rileviamo alcune notizie 
+ma non abbastanza per capire il compartameno 
+del malware
+-------------DLL----------------------------
+Le dll importate dal malware sono
+-KERNEL32.DLL
+Questa è una DLL di sistema fondamentale che fornisce funzioni di base per la gestione della memoria, la creazione di processi, l’I/O dei file e la sincronizzazione
+---------------------------------------------
+ADVAPI32.dll
+La DLL delle API dei servizi avanzati contiene funzioni relative alla sicurezza, all’accesso al registro e alla gestione degli account utente.
+---------------------------------------------
+MSVCRT.dll
+Questa DLL, nota anche come C Runtime Library, fornisce funzioni di runtime per i programmi scritti in linguaggio C o C++.
+---------------------------------------------
+WININET.dll
+Questa DLL è responsabile della gestione delle operazioni di rete, come l’accesso a risorse su Internet.
+Fornisce funzioni per l’invio e la ricezione di dati tramite protocolli come HTTP e FTP.
+
+Conclusioni finali
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Dalle librerie capiamo alcune informazioni sul comportamento del malware ma non abbastanza per contrastarlo in modo efficente.
